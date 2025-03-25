@@ -35,7 +35,7 @@ R: El algoritmo solo procesa caracteres ASCII estándar
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/cifrado-cesar.git
+git clone https://github.com/Hyatsupen/Cesar_Encryption.git
 
 # Navegar al directorio
 cd cifrado-cesar
